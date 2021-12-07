@@ -26,7 +26,7 @@ Clone the project![Screenshot (456)](https://user-images.githubusercontent.com/7
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JAVASCRIPT DOM
+**Client:** HTML, CSS, JAVASCRIPT DOM NodeJS
 
 **Server:** 
 
